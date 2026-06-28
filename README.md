@@ -1,7 +1,9 @@
 # Night Light Madness
 An RGB Acrylic Night-Light Alarm Clock with various modes, features & customizability.
 
-[images here]
+<img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 45" src="https://github.com/user-attachments/assets/ad662954-d0a6-4fd2-afbd-4d7403a1a8f1" /><img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 44 (3)" src="https://github.com/user-attachments/assets/c11b0df9-d1de-4d0e-8abf-0c5756331c51" /><img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 44 (2)" src="https://github.com/user-attachments/assets/d28851e1-4003-4074-9523-20245b85195c" />
+<img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 44 (1)" src="https://github.com/user-attachments/assets/0c7c15ba-8f16-4d33-9de7-02fe3905b101" /><img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 44" src="https://github.com/user-attachments/assets/90b154b9-815e-4ef0-a6f4-1c1b44d5c2ff" /><img width="300" alt="WhatsApp Image 2026-06-28 at 13 21 41" src="https://github.com/user-attachments/assets/d9877236-6a7a-4ed7-b914-b9fe58d2650c" />
+
 
 ## Capabilities
 
@@ -12,13 +14,13 @@ An RGB Acrylic Night-Light Alarm Clock with various modes, features & customizab
  - Used to set Alarm(s)
  - Customized with any custom glowing theme
  - Tuned to the light level in the room
- - Enabled to retain time after powerloss
+ - Enabled to retain time after power loss
 
 ## Why?
 
 I wanted a night light that actually expressed myself, so I took my favourite show (Lego Ninjago) & made an acrylic cut with it on:
 
-[Image here]
+<img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 45 (1)" src="https://github.com/user-attachments/assets/ee26b6e3-db2c-4c31-9d27-b0e87e9c93db" />
 
 Then, I designed a night-light around it capable of glowing in any colour or format I could possibly dream of!
 
@@ -36,11 +38,7 @@ All to show that you don't need to be defined by the IKEA furniture that you buy
 
 ## How to Build?
 
-### Bill of Materials:-
- - kofodsfk
- - dfdssd
-
-The Full Build/ Recreation Guide is here: [link here]
+The Bill of Materials & Full Build/ Recreation Guide is here: [link here]
 
 ## Credits & AI Usage
 AI used for Minimal Research only, everything else from design to code all done by @Ninjago77 with the exception of the Ninjago Golden Weapons Fanart.
