@@ -207,13 +207,13 @@ void loop() {
       analogWrite(ACRYLIC_G, color2[1] * 256);
       analogWrite(ACRYLIC_B, color2[2] * 256);
       break;
-    case (3):
-      interval = double(mapExponential(int(pot/64), 0, 15, 10, 300)*100);
-      Serial.println(interval);
-      float color3[3]; // Declare color array here
-      float startColor3[3] = {0};
-      float endColor3[3] = {0};
-      float step3 = biDirectionalStepGenerator(math_only_ms,interval);
+    // case (3):
+    //   interval = double(mapExponential(int(pot/64), 0, 15, 10, 300)*100);
+    //   Serial.println(interval);
+    //   float color3[3]; // Declare color array here
+    //   float startColor3[3] = {0};
+    //   float endColor3[3] = {0};
+    //   float step3 = biDirectionalStepGenerator(math_only_ms,interval);
   }
   uint8_t dots;
   if ((millis()%1000) >= 500) {dots = 0;} else {dots = 0b01000000;}
