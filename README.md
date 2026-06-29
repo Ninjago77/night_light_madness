@@ -37,9 +37,11 @@ And, I think I've achieved that!
  - **Mode 6 (Green) `TBD`**: Allows the User to set the Alarm Time (Potentiometer) when the Switches are both up (minutes) or when they are both down (hours), opposite directions essentially locks the Alarm time.
  - **Mode 7 (Blue) `TBD`**: Allows the User to set the Auto-Light-Off Time (Potentiometer) when the Switches are both up (minutes) or when they are both down (hours), opposite directions essentially locks the Auto-Light-Off time.
 
-## How to Build?
+## How to Build? / What are the Materials needed?
 
-The Bill of Materials & Full Build/ Recreation Guide is here: [BUILDME.md](./BUILDME.md)
+The Full List of Materials (& whether they are optional) is here: [List_of_Materials.md](./List_of_Materials.md)
+
+The Full Build / Recreation Guide is here: [BUILDME.md](./BUILDME.md)
 
 ## Credits & AI Usage
 AI used for Minimal Research & Lerp Mathematics only, everything else from design to code all done by @Ninjago77, with the exception of the Ninjago Golden Weapons Fanart.
