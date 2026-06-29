@@ -9,3 +9,5 @@
  - [`List_of_Materials.md`](./List_of_Materials.md): Provides the components names required (&/or optional) for the making of the project.
 ## Prepare with Materials
 First, you'll need most of these: [List_of_Materials.md](./List_of_Materials.md)
+## Build Guide
+`TBD`
