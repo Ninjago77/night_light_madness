@@ -40,6 +40,7 @@ And, I think I've achieved that!
 ## How to Build? / What are the Materials needed?
 
 The Full List of Materials (& whether they are optional) is here: [List_of_Materials.md](./List_of_Materials.md)
+
 The Full Build / Recreation Guide is here: [BUILDME.md](./BUILDME.md)
 
 ## Credits & AI Usage
