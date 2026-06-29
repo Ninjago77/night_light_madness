@@ -5,8 +5,7 @@
  - [`software/`](./software/): Contains the Arduino Nano's Code to allow the inputs, RTC & Sensors to interact with the LEDs, Display & Buzzer via the Nano.
  - [`images/`](./images/): Contains all the Images taken of the Project or its components/parts.
  - [`README.md`](./README.md): Provides the introduction, features, usage & overview of the project as well as a gallery of pictures.
- - [`BUILDME.md`](./BUILDME.md): Provides the step-by-step guide to recreate the project / customize it for yourself.
- - [`List_of_Materials.md`](./List_of_Materials.md): Provides the components names required (&/or optional) for the making of the project.
+ - [`BUILDME.md`](./BUILDME.md): Provides the list of materials & the step-by-step guide to recreate the project / customize it for yourself.
 ## List of Materials
 | Component Name | Quantity | Required + Note | Additional Notes |
 | -------------- | -------- | --------------- | ---------------- |
@@ -32,3 +31,11 @@
 | Arduino Nano | 1x | Yes | Knock-offs should be ok if they work |
 ## Build Guide
 `TBD`
+## Build Gallery
+<img width="300" alt="WhatsApp Image 2026-06-29 at 01 42 47 (5)" src="https://github.com/user-attachments/assets/5ba1ce1e-3cd5-4ab5-adbe-26150fbdd77b" /><img width="300" alt="WhatsApp Image 2026-06-29 at 01 42 47 (4)" src="https://github.com/user-attachments/assets/6972bbcf-f809-4977-94e7-3122fec6e59e" /><img width="300" alt="WhatsApp Image 2026-06-29 at 01 42 47 (3)" src="https://github.com/user-attachments/assets/c385a259-dc06-4e08-8422-ea3386b635c6" />
+<img width="300" alt="WhatsApp Image 2026-06-29 at 01 42 47 (2)" src="https://github.com/user-attachments/assets/ae2fda05-c0a7-4c35-8a25-8f137bb8c360" /><img width="300" alt="WhatsApp Image 2026-06-29 at 01 42 47 (1)" src="https://github.com/user-attachments/assets/829cf177-f107-497f-ab09-4dc4380441e6" /><img width="300" alt="WhatsApp Image 2026-06-29 at 01 42 47" src="https://github.com/user-attachments/assets/b7eaec2f-dc8e-4d4d-892e-b805d10089be" />
+## Screenshot Gallery
+<img width="300" alt="Screenshot 2026-06-29 014729" src="https://github.com/user-attachments/assets/1077f443-e8e0-4aa8-8302-67ad88e8b3f0" /><img width="300" alt="Screenshot 2026-06-29 014659" src="https://github.com/user-attachments/assets/7b6fd6ea-82e5-4c28-9545-0349b1d35156" /><img width="300" alt="Screenshot 2026-06-29 014647" src="https://github.com/user-attachments/assets/0800a5f0-a7dd-476c-be52-ccdfff739cec" />
+<img width="300" alt="Screenshot 2026-06-29 015546" src="https://github.com/user-attachments/assets/e98ef020-e1d7-4c9b-ab31-91619d9fb240" /><img width="300" alt="Screenshot 2026-06-29 015536" src="https://github.com/user-attachments/assets/ab4ac06c-b857-481c-be0e-897458b848ac" /><img width="300" alt="Screenshot 2026-06-29 015512" src="https://github.com/user-attachments/assets/9d1514be-d836-42f0-86b6-896f30d8d05e" />
+<img width="300" alt="Screenshot 2026-06-29 015504" src="https://github.com/user-attachments/assets/02bc869c-8bac-4db5-9586-e0064ad1e76a" /><img width="300" alt="Screenshot 2026-06-29 015451" src="https://github.com/user-attachments/assets/09dfdd05-bf8d-4d71-a959-46692938582f" /><img width="300" alt="Screenshot 2026-06-29 015241" src="https://github.com/user-attachments/assets/d838be15-f07c-445a-8102-44132a2ade96" />
+<img width="300" alt="Screenshot 2026-06-29 015300" src="https://github.com/user-attachments/assets/d86ecc83-8e15-42d3-88b3-4787b5db404c" /><img width="300" alt="Screenshot 2026-06-29 015154" src="https://github.com/user-attachments/assets/861de0e1-2531-4f73-96f2-b9999e28e0c8" /><img width="300" alt="Screenshot 2026-06-29 015133" src="https://github.com/user-attachments/assets/994ffd2e-51d3-4610-9760-dcc0efb248b6" />
