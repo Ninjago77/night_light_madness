@@ -1,5 +1,5 @@
 # Night Light Madness
-An RGB Acrylic Night-Light Alarm Clock with various modes, features & customizability. [Demo Video]([null](https://github.com/Ninjago77/night_light_madness/raw/refs/heads/main/videos/video%201.mp4)) `TBD`
+An RGB Acrylic Night-Light Alarm Clock with various modes, features & customizability. [Demo Video](https://github.com/Ninjago77/night_light_madness/raw/refs/heads/main/videos/video%201.mp4) `TBD`
 ## Showcase Gallery
 <img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 45" src="https://github.com/user-attachments/assets/ad662954-d0a6-4fd2-afbd-4d7403a1a8f1" /><img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 44 (3)" src="https://github.com/user-attachments/assets/c11b0df9-d1de-4d0e-8abf-0c5756331c51" /><img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 44 (2)" src="https://github.com/user-attachments/assets/d28851e1-4003-4074-9523-20245b85195c" />
 <img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 44 (1)" src="https://github.com/user-attachments/assets/0c7c15ba-8f16-4d33-9de7-02fe3905b101" /><img width="300" alt="WhatsApp Image 2026-06-28 at 13 12 44" src="https://github.com/user-attachments/assets/90b154b9-815e-4ef0-a6f4-1c1b44d5c2ff" /><img width="300" alt="WhatsApp Image 2026-06-28 at 13 21 41" src="https://github.com/user-attachments/assets/d9877236-6a7a-4ed7-b914-b9fe58d2650c" />
