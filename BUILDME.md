@@ -4,6 +4,7 @@
  - [`hardware/pcb`](./hardware/pcb): Contains all the Electronics Fusion360 (*.f3z* imports to schematics & pcbs) to put on a pcb & attach/solder components & wires to.
  - [`software/`](./software/): Contains the Arduino Nano's Code to allow the inputs, RTC & Sensors to interact with the LEDs, Display & Buzzer via the Nano.
  - [`images/`](./images/): Contains all the Images taken of the Project or its components/parts.
+ - [`videos/`](./videos/): Contains all the Video clips taken of the Project.
  - [`README.md`](./README.md): Provides the introduction, features, usage & overview of the project as well as a gallery of pictures.
  - [`BUILDME.md`](./BUILDME.md): Provides the list of materials & the step-by-step guide to recreate the project / customize it for yourself.
 ## List of Materials
